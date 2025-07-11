@@ -1,2 +1,2 @@
 # imano
-my private codes
+my codes
